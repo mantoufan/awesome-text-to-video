@@ -95,6 +95,7 @@ Key trends:
 | 🎩 **Magic Hour** | Magic Hour | Multi-format creative suite | 1080p | Face swap, talking photos, headshots, clothes swapper | [magichour.ai](https://magichour.ai/) |
 | 🛒 **Creatify** | Creatify | UGC-style ad generation | 1080p | E-commerce focused, ad performance tracking | [creatify.ai](https://creatify.ai/) |
 | 🎞️ **Vivideo** | Vivideo | Model-agnostic short-video creation | Varies | Unified access to multiple T2V/I2V models, synced audio, text- and image-to-video | [vivideo.ai](https://vivideo.ai) |
+| 🎞️ **cv.cm/v (Cloud Clipboard AI Studio)** | Cloud Clipboard | Seedance-based video workflows | Varies | Queue-free Seedance 2.0, image generation, canvas, and short-drama agent | [cv.cm/v](https://cv.cm/v) |
 
 #### Discontinued / Historical
 
